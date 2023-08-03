@@ -430,6 +430,12 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3741743096958657521, guid: 8d6c09a6f35ab93498a17f1a2b9375a9,
+        type: 3}
+      propertyPath: yarnProject
+      value: 
+      objectReference: {fileID: 7545569452688597077, guid: 5f6a6281cbfa9be4a82b0f4c4b83ba8f,
+        type: 3}
     - target: {fileID: 3741743097333894304, guid: 8d6c09a6f35ab93498a17f1a2b9375a9,
         type: 3}
       propertyPath: m_Camera
