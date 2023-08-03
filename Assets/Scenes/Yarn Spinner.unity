@@ -478,7 +478,7 @@ PrefabInstance:
     - target: {fileID: 3741743096958657521, guid: 8d6c09a6f35ab93498a17f1a2b9375a9,
         type: 3}
       propertyPath: startNode
-      value: ChefYarnScript
+      value: Welcome
       objectReference: {fileID: 0}
     - target: {fileID: 3741743096958657521, guid: 8d6c09a6f35ab93498a17f1a2b9375a9,
         type: 3}

@@ -2,12 +2,47 @@
 tags:
 ---
 
+<<declare $boolReply = true>>
 
-
-Welcome to this yarn demo. #line:01d406e 
+Welcome to dinner table. #line:01d406e 
 
 This is an example script. #line:0b45f91 
 
 We hope you enjoy it. #line:091f738 
+
+===
+
+
+title: Welcome
+tags: 
+---
+We are currently out of stock with food, the only available things we currently have are fruits. #line:08d961d 
+
+Would that be Ok with you? #line:047e05f 
+
+-> Yes #line:04688e9 
+    <<set $boolReply = true>>
+    <<jump Yes>>
+
+-> No #line:0e61089
+    <<set $boolReply = false>>
+    <<jump Yes>>
+
+===
+
+title: Yes
+tags: 
+---
+We have a bunch of apples of the table so have a seat and eat while enjoying the view. #line:06fe44d 
+
+===
+
+
+
+title: No
+tags: 
+---
+
+I am afraid we would not be able to serve you. #line:005519d 
 
 ===
