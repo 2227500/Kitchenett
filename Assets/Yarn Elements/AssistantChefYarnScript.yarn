@@ -49,7 +49,7 @@ Would that be Ok with you? #line:047e05f
     <<jump Yes>>
 -> No #line:0e61089
     <<set $boolReply = false>>
-    <<jump Yes>>
+    <<jump No>>
 
 ===
 
