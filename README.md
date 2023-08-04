@@ -3,7 +3,7 @@
 
 A Kitchen Scene Showcasing Lighting, Sound and AI
 
-https://youtu.be/vHwcpLGCEBc
+Youtube: https://youtu.be/vHwcpLGCEBc
 
 Welcome to a cozy kitchen/living room setup
 
