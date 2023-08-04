@@ -19,6 +19,7 @@ After speaking to the assistant, he goes to warm up near the cozy fireplace in t
 ![Screenshot (849)](https://github.com/2227500/Kitchenett/assets/115985919/62ea7afa-2767-4988-93d4-daf120fcb71a)
 
 Particles:
+
 Dusty particles all arounf the room and a custom fire particle to keep warm near the fireplace
 
 ![Screenshot (851)](https://github.com/2227500/Kitchenett/assets/115985919/ce322d31-ae6c-49da-afb2-adb04f610292)
