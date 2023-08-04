@@ -53,6 +53,7 @@ public class NPC3D : MonoBehaviour
         //if other is player
         if (other.gameObject.CompareTag("Player"))
         {
+            Debug.Log("On trigger");
             if (!string.IsNullOrEmpty(talkToNode))
             {
                 if (dialogueCanvas != null)
