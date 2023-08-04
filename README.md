@@ -26,4 +26,4 @@ Dusty particles all arounf the room and a custom fire particle to keep warm near
 
 # 🎤 Credits:
 
-NPC'S are fomr microsoft rocketbox, https://github.com/microsoft/Microsoft-Rocketbox and animations are from https://www.mixamo.com. Low poly cartoon house from unity assset store. Dialogue provider by YarnSpinner. Some custom scripts supplied by Seb and Ted from Swansea University Virtual Reality.
+NPC'S are from microsoft rocketbox, https://github.com/microsoft/Microsoft-Rocketbox and animations are from https://www.mixamo.com. Low poly cartoon house from unity assset store. Dialogue provider by YarnSpinner. Some custom scripts supplied by Seb and Ted from Swansea University Virtual Reality.
