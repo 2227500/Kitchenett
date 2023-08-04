@@ -1,4 +1,22 @@
-﻿title: Welcome
+﻿title: "chef"
+tags:
+---
+
+Goodday, have you spoken to my assistant?
+
+-> Yes
+    <<set $boolReply = true>>
+    <<jump spokenToAssist>>
+-> No
+    <<set $boolReply = false>>
+    <<jump notSpokenToAssist>>
+
+
+===
+
+
+
+title: Welcome
 tags:
 ---
 
@@ -29,7 +47,6 @@ Would that be Ok with you? #line:047e05f
 -> Yes #line:04688e9 
     <<set $boolReply = true>>
     <<jump Yes>>
-
 -> No #line:0e61089
     <<set $boolReply = false>>
     <<jump Yes>>
@@ -40,6 +57,8 @@ title: Yes
 tags: 
 ---
 We have a bunch of apples of the table so have a seat and eat while enjoying the view. #line:06fe44d 
+
+<<moveToSofa Navigations>>
 
 ===
 
@@ -52,5 +71,7 @@ tags:
 I am afraid we would not be able to serve you. #line:005519d 
 
 You may peruse around at your convenience #line:0ab7764 
+
+<<moveToSofa Navigations>>
 
 ===
