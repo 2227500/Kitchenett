@@ -12,3 +12,6 @@ Welcome to a cozy kitchen/living room setup
 # Features:
 
 #🗣️ Dialogue
+
+A short dialogue with the chef assistant explaining the current situation in which you cannot be served.
+After speaking to the assistant, he goes to warm up near the cozy fireplace in the room.
