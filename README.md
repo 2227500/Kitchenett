@@ -7,7 +7,7 @@ Youtube: https://youtu.be/vHwcpLGCEBc
 
 Welcome to a cozy kitchen/living room setup
 
-![Screenshot (849)](https://github.com/2227500/Kitchenett/assets/115985919/93bad430-0149-4aa1-9128-f27dc518f4ea)
+![Screenshot (850)](https://github.com/2227500/Kitchenett/assets/115985919/be8d25ca-7189-4c3a-8447-02b46f3c168a)
 
 # Features:
 
