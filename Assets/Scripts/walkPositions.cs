@@ -14,7 +14,8 @@ public class walkPositions : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       // MoveToSofa();
+       //MoveToSofa();
+       //MoveToFirePlace();
     }
 
     // Update is called once per frame
