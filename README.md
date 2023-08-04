@@ -18,8 +18,11 @@ After speaking to the assistant, he goes to warm up near the cozy fireplace in t
 
 ![Screenshot (851)](https://github.com/2227500/Kitchenett/assets/115985919/ce322d31-ae6c-49da-afb2-adb04f610292)
 
+Particles:
+Dusty particles all arounf the room and a custom fire particle to keep warm near the fireplace
+
 
 
 # 🎤 Credits:
 
-NPC'S are fomr microsoft rocketbox, https://github.com/microsoft/Microsoft-Rocketbox and animations are from https://www.mixamo.com.
+NPC'S are fomr microsoft rocketbox, https://github.com/microsoft/Microsoft-Rocketbox and animations are from https://www.mixamo.com. Low poly cartoon house from unity assset store. Dialogue provider by YarnSpinner. Some custom scripts supplied by Seb and Ted from Swansea University Virtual Reality.
