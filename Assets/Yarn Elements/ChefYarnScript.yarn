@@ -1,19 +1,23 @@
-﻿title: ChefYarnScript
+﻿title: Welcome
 tags:
 ---
 
 <<declare $boolReply = true>>
 
-Welcome to dinner table. #line:01d406e 
+Welcome Dear customer. #line:01d406e 
 
-This is an example script. #line:0b45f91 
+I am sad to say you caught us at a bad time as we are having problems with Gas leaks. #line:0b45f91 
+
+and are unable to provide you with any actual food.
+
+But you may have you fill of fruits and also feel free to move around while you do.
 
 We hope you enjoy it. #line:091f738 
 
 ===
 
 
-title: Welcome
+title: outOfOrder
 tags: 
 ---
 We are currently out of stock with food, the only available things we currently have are fruits. #line:08d961d 
@@ -44,5 +48,7 @@ tags:
 ---
 
 I am afraid we would not be able to serve you. #line:005519d 
+
+You may peruse around at your convenience
 
 ===
