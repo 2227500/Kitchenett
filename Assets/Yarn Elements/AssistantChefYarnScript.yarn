@@ -8,12 +8,14 @@ Welcome Dear customer. #line:01d406e
 
 I am sad to say you caught us at a bad time as we are having problems with Gas leaks. #line:0b45f91 
 
-and are unable to provide you with any actual food.
+and are unable to provide you with any actual food. #line:0a846ac 
 
-But you may have you fill of fruits and also feel free to move around while you do.
+But you may have you fill of fruits and also feel free to move around while you do. #line:02a4fcb 
 
 We hope you enjoy it. #line:091f738 
 
+-> Thank you #line:0da3aa4 
+    <<jump outOfOrder>>
 ===
 
 
@@ -49,6 +51,6 @@ tags:
 
 I am afraid we would not be able to serve you. #line:005519d 
 
-You may peruse around at your convenience
+You may peruse around at your convenience #line:0ab7764 
 
 ===
